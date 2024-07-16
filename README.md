@@ -1,2 +1,2 @@
 # K-Means-clustering
-Created a simple KMeans clustering model grouping countried based on their geographical centre, another model using the language spoken. Using the elbow methods to find the optimal number of clusters.
+Created a simple K-Means clustering model, grouping countries based on their geographical center. And another model using the language spoken. Finally using the elbow method to find the optimal number of clusters.
